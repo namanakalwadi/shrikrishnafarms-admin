@@ -1,0 +1,4 @@
+[
+  { "id": 2, "name": "Kesar", "description": "Known as the Queen of Mangoes, prized for its saffron-coloured pulp.", "price": 1500, "priceUnit": "per 5 kg box", "origin": "Dharwad, Karnataka", "season": "May – July", "inStock": true },
+  { "id": 3, "name": "Alphonso (Hapus)", "description": "The King of Mangoes — buttery, non-fibrous, and extraordinarily fragrant.", "price": 1500, "priceUnit": "per 5 kg box", "origin": "Dharwad, Karnataka", "season": "April – June", "inStock": true }
+]
